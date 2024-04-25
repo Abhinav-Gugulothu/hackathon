@@ -1,0 +1,2 @@
+jpegio/componentinfo.cp39-win_amd64.pyd
+jpegio/decompressedjpeg.cp39-win_amd64.pyd
